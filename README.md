@@ -18,7 +18,7 @@ Instagram >> https://www.instagram.com/arnabdasbwn/
 
 Twitter >> https://twitter.com/ArnabDasBwn 
 
-Full DIY Tutorial  Visit >>  www.arnabkumardas.com 
+Full DIY Tutorial  Visit >>  http://www.arnabkumardas.com/blog/diy-project/pcb-business-card/
 
 ![alt text](https://github.com/arnabdasbwn/PCB-Business-Card/blob/master/DSC03299_edit.jpg)
 ![alt text](https://github.com/arnabdasbwn/PCB-Business-Card/blob/master/DSC03300_edit.jpg)
